@@ -1,0 +1,14 @@
+.header1{
+    background-image: url("images/header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+.headertittel{
+font-style: normal;
+    font-size: 55px;
+    color: white;
+}
+.nav{
+    background: ;
+}
