@@ -9,6 +9,24 @@ font-style: normal;
     font-size: 55px;
     color: white;
 }
-.nav{
-    background: ;
+nav{
+    background-color: #444444;
+    padding: 5px;
+}
+nav a{
+    color: #56FF88;
+    text-decoration: none;
+    font-weight: bold;
+}
+article{
+    background-color: #EEEEEE;
+}
+p{
+    font-size: 0.8em;
+    width: 95%;
+
+}
+h1{
+    font-style: normal;
+    font-size: 2.0em;
 }
