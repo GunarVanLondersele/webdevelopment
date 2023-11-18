@@ -3,7 +3,7 @@ body{
     font-size: 1.2em;
     width: 95%;
     display: block;
-    text-align: center;
+    text-align: left;
 }
 .image{
     text-align: right;
@@ -46,8 +46,16 @@ h1{
 .w5{
     color: black;
 }
-section
-{
-margin-right: 25%;
-    target-position: above;
+.history{
+    background-color: #a7cece;
+    color: #444444;
+    padding: 20px;
+    width: 65%;
+    margin: 30px;
+    border: white;
+    border-style: dashed;
+    font-size: 0.8em;
+}
+.imghis{
+    al
 }
