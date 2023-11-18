@@ -1,0 +1,9 @@
+p{
+    display: block;
+    font-family: Arial,sans-serif;
+    font-size: 1.2em;
+    text-align:center;
+}
+.span1{
+    float: right;
+}

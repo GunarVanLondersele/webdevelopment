@@ -19,6 +19,8 @@ body{
     width: 30%;
     padding-left: 5px;
     padding-right: 5px;
+    background-image: url("Labo_8/images/cocktail.gif");
+    background: repeat;
 
 
 }
@@ -65,11 +67,8 @@ h1{
 footer{
     font-size: 50%;
     padding-left: 800px;
-}
-div{
     text-align: center;
 }
 .repeat{
-    background-image: url("Labo_8/images/cocktail.gif");
-    background: repeat;
+
 }
