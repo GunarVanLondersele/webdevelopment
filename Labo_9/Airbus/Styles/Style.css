@@ -1,0 +1,98 @@
+body{
+    font-family: sans-serif, Arial, Helvetica ;
+    display: block;
+    text-align: left;
+}
+
+header{
+    padding-top: 5px;
+    height: 200px;
+    color: darkblue;
+    font-weight: bold;
+    background: url("../images/bgsky3.jpg") no-repeat;
+    background-size: cover;
+
+}
+
+
+header h1{
+ text-align: center;
+    font-style: italic;
+    font-size: 300%;
+    z-index: -1;
+}
+
+header h2{
+    text-align: center;
+    font-size: 250%;
+    z-index: -1;
+}
+header img{
+    padding-right: 90px;
+    padding-bottom: 60px;
+    position: absolute;
+    top: 75px;
+    left: 980px;
+}
+
+aside{
+    display: block;
+    float: right;
+    color: #666666;
+    text-align: center;
+    font-size:90% ;
+    width: 25%;
+    border: #999999;
+    border: solid;
+    border: 1px;
+    background-color: #dddddd;
+    padding-top: 40px;
+
+
+
+}
+aside h3{
+    background-color: blue;
+    font-size: 120%
+}
+
+main{
+    width: 75%;
+    padding-right: 10px;
+}
+
+main p{
+    display: block;
+    background-color: white;
+    color: black;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+main p span{
+    color: blue;
+    font-style: italic;
+}
+
+main img{
+    display: block;
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 30px;
+}
+
+figure{
+    background-color: #999999;
+    width:75%;
+    margin: 0;
+}
+.foto{
+
+    border: dashed;
+    border: white;
+    border:1px;
+
+
+}
